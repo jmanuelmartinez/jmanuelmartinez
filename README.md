@@ -7,7 +7,7 @@ Welcome to my playground! 🌟 I firmly believe that sharing knowledge is the be
 🌞 ️I'm a spanish fella based in Spain  
 💻 I work as a DevOps Engineer and Software Engineer  
 🐍 I love programming in Python, C#, and JavaScript, among others...  
-🚀 I'm a DevOps practices evangelist
+🚀 I'm a DevOps evangelist
  
 ## Here is what I like to play with...
  
@@ -24,4 +24,4 @@ Welcome to my playground! 🌟 I firmly believe that sharing knowledge is the be
 
 ## You can also find me in...
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/jmanuelmartinezlopez)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/jmmartinezlopez)
